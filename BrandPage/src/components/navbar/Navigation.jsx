@@ -3,7 +3,7 @@
 export default function Navigation() {
     return (
     <>
-        <nav>
+        <nav className="container">
             <div className='logo'>
                 <img src="./src/assets/nikelogo.png" alt="" />
             </div>
